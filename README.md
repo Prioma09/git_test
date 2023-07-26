@@ -1,6 +1,6 @@
 # git_test
 I am new at learing git workflow 
-I made this git repository to understand how git and git hub works
+I made this git repository to understand how git and github works
 
 reference: Odin Project
 
